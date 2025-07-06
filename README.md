@@ -19,5 +19,8 @@ Há correlação entre a eficiência de acertar cestas e acertar lances livres.
 - Etapas de Pré-processamento
 - Validação de hipóteses
 
-# Conclusão
-A análise e pré-processamento do BPSS demonstram a importância de entender a estrutura dos dados antes da modelagem. O dataset é limpo e balanceado, mas com a criação das novas métricas foi necessário tratar os valores nulos por causa de jogadores com baixa minutagem. A análise exploratória revelou que não há correlação entre as variáveis criadas, o que é importante para a modelagem. Como próximos passos, recomenda-se a implementação de modelos de classificação para prever a liga de um jogador com base em suas estatísticas normalizadas, o que pode auxiliar no scouting internacional de atletas.
+# 🛠️ Instalação e Execução
+1. Clone o repositório (ou baixe o notebook no link https://colab.research.google.com/drive/1s-1MIkaI3WtZRnnZT6DP1FsXCX-AGHA2?usp=sharing)
+Se estiver usando um repositório Git:
+
+git clone https://github.com/murilloandrade22/mvp_BPSS_40530010055_20250_01.git
