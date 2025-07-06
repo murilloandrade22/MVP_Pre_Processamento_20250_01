@@ -14,10 +14,10 @@ Jogadores com maior acerto de arremessos de 3 pontos tendem a jogar mais minutos
 Há correlação entre a eficiência de acertar cestas e acertar lances livres.
 
 # 🔍 Etapas realizadas
-Escolha do dataset
-Análise do tipo de problema e do dataset
-Etapas de Pré-processamento
-Validação de hipóteses
+- Escolha do dataset
+- Análise do tipo de problema e do dataset
+- Etapas de Pré-processamento
+- Validação de hipóteses
 
 # Conclusão
 A análise e pré-processamento do BPSS demonstram a importância de entender a estrutura dos dados antes da modelagem. O dataset é limpo e balanceado, mas com a criação das novas métricas foi necessário tratar os valores nulos por causa de jogadores com baixa minutagem. A análise exploratória revelou que não há correlação entre as variáveis criadas, o que é importante para a modelagem. Como próximos passos, recomenda-se a implementação de modelos de classificação para prever a liga de um jogador com base em suas estatísticas normalizadas, o que pode auxiliar no scouting internacional de atletas.
