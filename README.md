@@ -5,3 +5,6 @@ Este MVP foi desenvolvido como um projeto para a disciplina de Análise de Dados
 Fazer Análise de Estatísticas Descritivas do Dataset
 Realizar Operações de Pré-Processamento
 Responder Hipóteses do Problema
+
+# Conclusão
+A análise e pré-processamento do BPSS demonstram a importância de entender a estrutura dos dados antes da modelagem. O dataset é limpo e balanceado, mas com a criação das novas métricas foi necessário tratar os valores nulos por causa de jogadores com baixa minutagem. A análise exploratória revelou que não há correlação entre as variáveis criadas, o que é importante para a modelagem. Como próximos passos, recomenda-se a implementação de modelos de classificação para prever a liga de um jogador com base em suas estatísticas normalizadas, o que pode auxiliar no scouting internacional de atletas.
