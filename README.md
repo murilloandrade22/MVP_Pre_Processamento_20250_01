@@ -20,7 +20,8 @@ Há correlação entre a eficiência de acertar cestas e acertar lances livres.
 - Validação de hipóteses
 
 # 🛠️ Instalação e Execução
-1. Clone o repositório (ou baixe o notebook no link https://colab.research.google.com/drive/1s-1MIkaI3WtZRnnZT6DP1FsXCX-AGHA2?usp=sharing)
+Clone o repositório (ou baixe o notebook no link https://colab.research.google.com/drive/1s-1MIkaI3WtZRnnZT6DP1FsXCX-AGHA2?usp=sharing)
+
 Se estiver usando um repositório Git:
 
 ```git clone https://github.com/murilloandrade22/mvp_BPSS_40530010055_20250_01.git```
